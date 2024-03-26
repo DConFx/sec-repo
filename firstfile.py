@@ -81,4 +81,4 @@ import math #math is an in-built library
 print("pi is", math.pi) #math.pi uses tha value of pi and it displays this from the library
 
 
-#stack overflow, chatgpt and blackbox.ai helps with errors 
+#stack overflow, chatgpt and blackbox.ai for help
